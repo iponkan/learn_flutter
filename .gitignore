@@ -71,3 +71,5 @@
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 IDEWorkspaceChecks.plist
+flutter_export_environment.sh
+pubspec.lock
